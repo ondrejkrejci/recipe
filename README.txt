@@ -1,6 +1,6 @@
 # Salat recipe for whole family
 
-# This is a great recipe 
+This is a great recipe for vegetable salat
 
-I will work on this later
+
 
